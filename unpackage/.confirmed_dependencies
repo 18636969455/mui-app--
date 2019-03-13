@@ -1,0 +1,16 @@
+{
+	"index.html": {
+		"resources": [
+			"js/jquery.i18n.properties.min.js",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"js/jquery-3.3.1.js",
+			"language/strings_en.properties",
+			"language/strings_py.properties",
+			"language/strings_rm.properties",
+			"language/strings_sb.properties",
+			"language/strings_zh.properties"
+		]
+	}
+}
